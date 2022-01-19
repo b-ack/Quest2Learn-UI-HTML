@@ -1,0 +1,55 @@
+[
+   
+-
+{
+        "name": "iPhone 13 Pro Max - 2",
+        "type": "div",
+        "content": 
+-
+[
+           
+-
+{
+                "name": "Welcome to the Lab!",
+                "type": "span",
+                "content": "Welcome to the Lab!",
+                "attributes": 
+-
+{
+                    "class": "v29_5"
+                },
+                "style": 
+-
+{
+                    "width": "292px",
+                    "color": "rgba(255,255,255,1)",
+                    "position": "absolute",
+                    "top": "388px",
+                    "left": "68px",
+                    "font-family": "Lato",
+                    "font-weight": "Regular",
+                    "font-size": "36px",
+                    "opacity": 1,
+                    "text-align": "center"
+                }
+            }
+        ],
+        "attributes": 
+-
+{
+            "class": "v29_4"
+        },
+        "style": 
+-
+{
+            "width": "428px",
+            "height": "926px",
+            "background": "rgba(0,109,166,1)",
+            "opacity": 1,
+            "position": "absolute",
+            "top": "0px",
+            "left": "0px",
+            "overflow": "hidden"
+        }
+    }
+]

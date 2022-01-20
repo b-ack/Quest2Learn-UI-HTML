@@ -1,0 +1,619 @@
+-
+[
+   
+-
+{
+        "name": "iPhone 13 Pro Max - 11",
+        "type": "div",
+        "content": 
+-
+[
+           
+-
+{
+                "name": "Ellipse 1",
+                "type": "div",
+                "content": [],
+                "attributes": 
+-
+{
+                    "class": "v29_280"
+                },
+                "style": 
+-
+{
+                    "width": "63px",
+                    "height": "63px",
+                    "background": "url(\"../images/v29_280.png\")",
+                    "opacity": 1,
+                    "position": "absolute",
+                    "top": "19px",
+                    "left": "342px",
+                    "border-radius": "50%"
+                }
+            },
+           
+-
+{
+                "name": "name",
+                "type": "div",
+                "content": [],
+                "attributes": 
+-
+{
+                    "class": "name"
+                },
+                "style": 
+-
+{
+                    "color": "#fff"
+                }
+            },
+           
+-
+{
+                "name": "quest2learn black 1",
+                "type": "div",
+                "content": [],
+                "attributes": 
+-
+{
+                    "class": "v29_282"
+                },
+                "style": 
+-
+{
+                    "width": "165px",
+                    "height": "50px",
+                    "background": "url(\"../images/v29_282.png\")",
+                    "background-repeat": "no-repeat",
+                    "background-position": "center center",
+                    "background-size": "cover",
+                    "opacity": 1,
+                    "position": "absolute",
+                    "top": "31px",
+                    "left": "21px",
+                    "box-shadow": "0px 3.188405752182007px 3px rgba(0, 0, 0, 0.25)",
+                    "overflow": "hidden"
+                }
+            },
+           
+-
+{
+                "name": "About",
+                "type": "span",
+                "content": "About",
+                "attributes": 
+-
+{
+                    "class": "v29_283"
+                },
+                "style": 
+-
+{
+                    "width": "314px",
+                    "color": "rgba(0,0,0,1)",
+                    "position": "absolute",
+                    "top": "129px",
+                    "left": "57px",
+                    "font-family": "Lato",
+                    "font-weight": "Regular",
+                    "font-size": "24px",
+                    "opacity": 1,
+                    "text-align": "center"
+                }
+            },
+           
+-
+{
+                "name": "Frame 1",
+                "type": "div",
+                "content": 
+-
+[
+                   
+-
+{
+                        "name": "Border",
+                        "type": "div",
+                        "content": 
+-
+[
+                           
+-
+{
+                                "name": "name",
+                                "type": "div",
+                                "content": [],
+                                "attributes": 
++
+{1 item},
+                                "style": 
++
+{1 item}
+                            },
+                           
+-
+{
+                                "name": "name",
+                                "type": "div",
+                                "content": [],
+                                "attributes": 
++
+{1 item},
+                                "style": 
++
+{1 item}
+                            },
+                           
+-
+{
+                                "name": "name",
+                                "type": "div",
+                                "content": [],
+                                "attributes": 
++
+{1 item},
+                                "style": 
++
+{1 item}
+                            },
+                           
+-
+{
+                                "name": "name",
+                                "type": "div",
+                                "content": [],
+                                "attributes": 
++
+{1 item},
+                                "style": 
++
+{1 item}
+                            }
+                        ],
+                        "attributes": 
+-
+{
+                            "class": "v29_285"
+                        },
+                        "style": 
+-
+{
+                            "width": "385px",
+                            "height": "646px",
+                            "background": "url(\"../images/v29_285.png\")",
+                            "background-repeat": "no-repeat",
+                            "background-position": "center center",
+                            "background-size": "cover",
+                            "opacity": 1,
+                            "position": "absolute",
+                            "top": "0px",
+                            "left": "0px",
+                            "overflow": "hidden"
+                        }
+                    },
+                   
+-
+{
+                        "name": "Rectangle 1",
+                        "type": "div",
+                        "content": [],
+                        "attributes": 
+-
+{
+                            "class": "v29_290"
+                        },
+                        "style": 
+-
+{
+                            "width": "100px",
+                            "height": "33px",
+                            "background": "rgba(216,216,216,1)",
+                            "opacity": 1,
+                            "position": "absolute",
+                            "top": "612px",
+                            "left": "0px",
+                            "overflow": "hidden"
+                        }
+                    },
+                   
+-
+{
+                        "name": "Rectangle 2",
+                        "type": "div",
+                        "content": [],
+                        "attributes": 
+-
+{
+                            "class": "v29_291"
+                        },
+                        "style": 
+-
+{
+                            "width": "100px",
+                            "height": "33px",
+                            "background": "rgba(216,216,216,1)",
+                            "opacity": 1,
+                            "position": "absolute",
+                            "top": "612px",
+                            "left": "284px",
+                            "overflow": "hidden"
+                        }
+                    },
+                   
+-
+{
+                        "name": "Back",
+                        "type": "span",
+                        "content": "Back",
+                        "attributes": 
+-
+{
+                            "class": "v29_292"
+                        },
+                        "style": 
+-
+{
+                            "width": "100px",
+                            "color": "rgba(0,0,0,1)",
+                            "position": "absolute",
+                            "top": "614px",
+                            "left": "0px",
+                            "font-family": "Lato",
+                            "font-weight": "Regular",
+                            "font-size": "14px",
+                            "opacity": 1,
+                            "text-align": "center"
+                        }
+                    },
+                   
+-
+{
+                        "name": "Next",
+                        "type": "span",
+                        "content": "Next",
+                        "attributes": 
+-
+{
+                            "class": "v29_293"
+                        },
+                        "style": 
+-
+{
+                            "width": "100px",
+                            "color": "rgba(0,0,0,1)",
+                            "position": "absolute",
+                            "top": "612px",
+                            "left": "285px",
+                            "font-family": "Lato",
+                            "font-weight": "Regular",
+                            "font-size": "14px",
+                            "opacity": 1,
+                            "text-align": "center"
+                        }
+                    },
+                   
+-
+{
+                        "name": "Rectangle 11",
+                        "type": "div",
+                        "content": [],
+                        "attributes": 
+-
+{
+                            "class": "v29_294"
+                        },
+                        "style": 
+-
+{
+                            "width": "285px",
+                            "height": "167px",
+                            "background": "rgba(101,183,226,1)",
+                            "opacity": 1,
+                            "position": "absolute",
+                            "top": "67px",
+                            "left": "50px",
+                            "overflow": "hidden"
+                        }
+                    },
+                   
+-
+{
+                        "name": "Rectangle 12",
+                        "type": "div",
+                        "content": [],
+                        "attributes": 
+-
+{
+                            "class": "v29_295"
+                        },
+                        "style": 
+-
+{
+                            "width": "285px",
+                            "height": "167px",
+                            "background": "rgba(101,183,226,1)",
+                            "opacity": 1,
+                            "position": "absolute",
+                            "top": "339px",
+                            "left": "50px",
+                            "overflow": "hidden"
+                        }
+                    },
+                   
+-
+{
+                        "name": "Rectangle 13",
+                        "type": "div",
+                        "content": [],
+                        "attributes": 
+-
+{
+                            "class": "v29_296"
+                        },
+                        "style": 
+-
+{
+                            "width": "230px",
+                            "height": "55px",
+                            "background": "rgba(216,216,216,1)",
+                            "opacity": 1,
+                            "position": "absolute",
+                            "top": "39px",
+                            "left": "78px"
+                        }
+                    },
+                   
+-
+{
+                        "name": "Rectangle 14",
+                        "type": "div",
+                        "content": [],
+                        "attributes": 
+-
+{
+                            "class": "v29_297"
+                        },
+                        "style": 
+-
+{
+                            "width": "230px",
+                            "height": "55px",
+                            "background": "rgba(216,216,216,1)",
+                            "opacity": 1,
+                            "position": "absolute",
+                            "top": "311px",
+                            "left": "78px"
+                        }
+                    },
+                   
+-
+{
+                        "name": "Non AR Lab",
+                        "type": "span",
+                        "content": "Non AR Lab",
+                        "attributes": 
+-
+{
+                            "class": "v29_298"
+                        },
+                        "style": 
+-
+{
+                            "width": "230px",
+                            "color": "rgba(0,0,0,1)",
+                            "position": "absolute",
+                            "top": "319px",
+                            "left": "78px",
+                            "font-family": "Lato",
+                            "font-weight": "Regular",
+                            "font-size": "24px",
+                            "opacity": 1,
+                            "text-align": "center"
+                        }
+                    },
+                   
+-
+{
+                        "name": "AR Lab",
+                        "type": "span",
+                        "content": "AR Lab",
+                        "attributes": 
+-
+{
+                            "class": "v29_299"
+                        },
+                        "style": 
+-
+{
+                            "width": "230px",
+                            "color": "rgba(0,0,0,1)",
+                            "position": "absolute",
+                            "top": "47px",
+                            "left": "78px",
+                            "font-family": "Lato",
+                            "font-weight": "Regular",
+                            "font-size": "24px",
+                            "opacity": 1,
+                            "text-align": "center"
+                        }
+                    },
+                   
+-
+{
+                        "name": "name",
+                        "type": "div",
+                        "content": [],
+                        "attributes": 
+-
+{
+                            "class": "name"
+                        },
+                        "style": 
+-
+{
+                            "color": "#fff"
+                        }
+                    },
+                   
+-
+{
+                        "name": "name",
+                        "type": "div",
+                        "content": [],
+                        "attributes": 
+-
+{
+                            "class": "name"
+                        },
+                        "style": 
+-
+{
+                            "color": "#fff"
+                        }
+                    },
+                   
+-
+{
+                        "name": "Having trouble with setting up an AR environment? No Problem! Try our Non-AR Section.",
+                        "type": "span",
+                        "content": "Having trouble with setting up an AR environment? No Problem! \nTry our Non-AR Section.",
+                        "attributes": 
+-
+{
+                            "class": "v29_302"
+                        },
+                        "style": 
+-
+{
+                            "width": "285px",
+                            "color": "rgba(255,255,255,1)",
+                            "position": "absolute",
+                            "top": "374px",
+                            "left": "50px",
+                            "font-family": "Lato",
+                            "font-weight": "Regular",
+                            "font-size": "18px",
+                            "opacity": 1,
+                            "text-align": "center"
+                        }
+                    },
+                   
+-
+{
+                        "name": "Bring the lab environment to your home with our immersive AR lab activity.",
+                        "type": "span",
+                        "content": "Bring the lab environment to your home with our immersive AR lab activity.",
+                        "attributes": 
+-
+{
+                            "class": "v29_303"
+                        },
+                        "style": 
+-
+{
+                            "width": "258px",
+                            "color": "rgba(255,255,255,1)",
+                            "position": "absolute",
+                            "top": "102px",
+                            "left": "60px",
+                            "font-family": "Lato",
+                            "font-weight": "Regular",
+                            "font-size": "18px",
+                            "opacity": 1,
+                            "text-align": "center"
+                        }
+                    }
+                ],
+                "attributes": 
+-
+{
+                    "class": "v29_284"
+                },
+                "style": 
+-
+{
+                    "width": "385px",
+                    "height": "646px",
+                    "background": "url(\"../images/v29_284.png\")",
+                    "background-repeat": "no-repeat",
+                    "background-position": "center center",
+                    "background-size": "cover",
+                    "opacity": 1,
+                    "position": "absolute",
+                    "top": "191px",
+                    "left": "21px",
+                    "overflow": "hidden"
+                }
+            },
+           
+-
+{
+                "name": "Rectangle 4",
+                "type": "div",
+                "content": [],
+                "attributes": 
+-
+{
+                    "class": "v29_304"
+                },
+                "style": 
+-
+{
+                    "width": "146px",
+                    "height": "33px",
+                    "background": "rgba(216,216,216,1)",
+                    "opacity": 1,
+                    "position": "absolute",
+                    "top": "868px",
+                    "left": "141px",
+                    "overflow": "hidden"
+                }
+            },
+           
+-
+{
+                "name": "Back to Menu",
+                "type": "span",
+                "content": "Back to Menu",
+                "attributes": 
+-
+{
+                    "class": "v29_305"
+                },
+                "style": 
+-
+{
+                    "width": "148px",
+                    "color": "rgba(0,0,0,1)",
+                    "position": "absolute",
+                    "top": "867px",
+                    "left": "140px",
+                    "font-family": "Lato",
+                    "font-weight": "Regular",
+                    "font-size": "18px",
+                    "opacity": 1,
+                    "text-align": "center"
+                }
+            }
+        ],
+        "attributes": 
+-
+{
+            "class": "v29_279"
+        },
+        "style": 
+-
+{
+            "width": "428px",
+            "height": "926px",
+            "background": "rgba(255,255,255,1)",
+            "opacity": 1,
+            "position": "absolute",
+            "top": "0px",
+            "left": "0px",
+            "overflow": "hidden"
+        }
+    }
+]

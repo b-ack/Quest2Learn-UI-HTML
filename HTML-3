@@ -1,0 +1,432 @@
+-
+[
+   
+-
+{
+        "name": "iPhone 13 Pro Max - 3",
+        "type": "div",
+        "content": 
+-
+[
+           
+-
+{
+                "name": "Ellipse 1",
+                "type": "div",
+                "content": [],
+                "attributes": 
+-
+{
+                    "class": "v29_7"
+                },
+                "style": 
+-
+{
+                    "width": "63px",
+                    "height": "63px",
+                    "background": "url(\"../images/v29_7.png\")",
+                    "opacity": 1,
+                    "position": "absolute",
+                    "top": "19px",
+                    "left": "342px",
+                    "border-radius": "50%"
+                }
+            },
+           
+-
+{
+                "name": "name",
+                "type": "div",
+                "content": [],
+                "attributes": 
+-
+{
+                    "class": "name"
+                },
+                "style": 
+-
+{
+                    "color": "#fff"
+                }
+            },
+           
+-
+{
+                "name": "quest2learn black 1",
+                "type": "div",
+                "content": [],
+                "attributes": 
+-
+{
+                    "class": "v29_9"
+                },
+                "style": 
+-
+{
+                    "width": "165px",
+                    "height": "50px",
+                    "background": "url(\"../images/v29_9.png\")",
+                    "background-repeat": "no-repeat",
+                    "background-position": "center center",
+                    "background-size": "cover",
+                    "opacity": 1,
+                    "position": "absolute",
+                    "top": "31px",
+                    "left": "21px",
+                    "box-shadow": "0px 3.188405752182007px 3px rgba(0, 0, 0, 0.25)",
+                    "overflow": "hidden"
+                }
+            },
+           
+-
+{
+                "name": "My Quests",
+                "type": "span",
+                "content": "My Quests",
+                "attributes": 
+-
+{
+                    "class": "v29_10"
+                },
+                "style": 
+-
+{
+                    "width": "314px",
+                    "color": "rgba(0,0,0,1)",
+                    "position": "absolute",
+                    "top": "129px",
+                    "left": "57px",
+                    "font-family": "Lato",
+                    "font-weight": "Regular",
+                    "font-size": "24px",
+                    "opacity": 1,
+                    "text-align": "center"
+                }
+            },
+           
+-
+{
+                "name": "Frame 1",
+                "type": "div",
+                "content": 
+-
+[
+                   
+-
+{
+                        "name": "Border",
+                        "type": "div",
+                        "content": 
+-
+[
+                           
+-
+{
+                                "name": "name",
+                                "type": "div",
+                                "content": [],
+                                "attributes": 
++
+{1 item},
+                                "style": 
++
+{1 item}
+                            },
+                           
+-
+{
+                                "name": "name",
+                                "type": "div",
+                                "content": [],
+                                "attributes": 
++
+{1 item},
+                                "style": 
++
+{1 item}
+                            },
+                           
+-
+{
+                                "name": "name",
+                                "type": "div",
+                                "content": [],
+                                "attributes": 
++
+{1 item},
+                                "style": 
++
+{1 item}
+                            },
+                           
+-
+{
+                                "name": "name",
+                                "type": "div",
+                                "content": [],
+                                "attributes": 
++
+{1 item},
+                                "style": 
++
+{1 item}
+                            }
+                        ],
+                        "attributes": 
+-
+{
+                            "class": "v29_12"
+                        },
+                        "style": 
+-
+{
+                            "width": "385px",
+                            "height": "220px",
+                            "background": "url(\"../images/v29_12.png\")",
+                            "background-repeat": "no-repeat",
+                            "background-position": "center center",
+                            "background-size": "cover",
+                            "opacity": 1,
+                            "position": "absolute",
+                            "top": "0px",
+                            "left": "0px",
+                            "overflow": "hidden"
+                        }
+                    },
+                   
+-
+{
+                        "name": "image 2",
+                        "type": "div",
+                        "content": [],
+                        "attributes": 
+-
+{
+                            "class": "v29_17"
+                        },
+                        "style": 
+-
+{
+                            "width": "157px",
+                            "height": "167px",
+                            "background": "url(\"../images/v29_17.png\")",
+                            "background-repeat": "no-repeat",
+                            "background-position": "center center",
+                            "background-size": "cover",
+                            "opacity": 1,
+                            "position": "absolute",
+                            "top": "26px",
+                            "left": "114px",
+                            "box-shadow": "0px 4px 4px rgba(0, 0, 0, 0.25)",
+                            "overflow": "hidden"
+                        }
+                    }
+                ],
+                "attributes": 
+-
+{
+                    "class": "v29_11"
+                },
+                "style": 
+-
+{
+                    "width": "385px",
+                    "height": "220px",
+                    "background": "url(\"../images/v29_11.png\")",
+                    "background-repeat": "no-repeat",
+                    "background-position": "center center",
+                    "background-size": "cover",
+                    "opacity": 1,
+                    "position": "absolute",
+                    "top": "191px",
+                    "left": "21px",
+                    "overflow": "hidden"
+                }
+            },
+           
+-
+{
+                "name": "Frame 2",
+                "type": "div",
+                "content": 
+-
+[
+                   
+-
+{
+                        "name": "Border",
+                        "type": "div",
+                        "content": 
+-
+[
+                           
+-
+{
+                                "name": "name",
+                                "type": "div",
+                                "content": [],
+                                "attributes": 
++
+{1 item},
+                                "style": 
++
+{1 item}
+                            },
+                           
+-
+{
+                                "name": "name",
+                                "type": "div",
+                                "content": [],
+                                "attributes": 
++
+{1 item},
+                                "style": 
++
+{1 item}
+                            },
+                           
+-
+{
+                                "name": "name",
+                                "type": "div",
+                                "content": [],
+                                "attributes": 
++
+{1 item},
+                                "style": 
++
+{1 item}
+                            },
+                           
+-
+{
+                                "name": "name",
+                                "type": "div",
+                                "content": [],
+                                "attributes": 
++
+{1 item},
+                                "style": 
++
+{1 item}
+                            }
+                        ],
+                        "attributes": 
+-
+{
+                            "class": "v29_19"
+                        },
+                        "style": 
+-
+{
+                            "width": "385px",
+                            "height": "220px",
+                            "background": "url(\"../images/v29_19.png\")",
+                            "background-repeat": "no-repeat",
+                            "background-position": "center center",
+                            "background-size": "cover",
+                            "opacity": 1,
+                            "position": "absolute",
+                            "top": "0px",
+                            "left": "0px",
+                            "overflow": "hidden"
+                        }
+                    },
+                   
+-
+{
+                        "name": "image 3",
+                        "type": "div",
+                        "content": [],
+                        "attributes": 
+-
+{
+                            "class": "v29_24"
+                        },
+                        "style": 
+-
+{
+                            "width": "165px",
+                            "height": "169px",
+                            "background": "url(\"../images/v29_24.png\")",
+                            "background-repeat": "no-repeat",
+                            "background-position": "center center",
+                            "background-size": "cover",
+                            "opacity": 1,
+                            "position": "absolute",
+                            "top": "25px",
+                            "left": "110px",
+                            "box-shadow": "0px 4px 4px rgba(0, 0, 0, 0.25)",
+                            "overflow": "hidden"
+                        }
+                    }
+                ],
+                "attributes": 
+-
+{
+                    "class": "v29_18"
+                },
+                "style": 
+-
+{
+                    "width": "385px",
+                    "height": "220px",
+                    "background": "url(\"../images/v29_18.png\")",
+                    "background-repeat": "no-repeat",
+                    "background-position": "center center",
+                    "background-size": "cover",
+                    "opacity": 1,
+                    "position": "absolute",
+                    "top": "457px",
+                    "left": "21px",
+                    "overflow": "hidden"
+                }
+            },
+           
+-
+{
+                "name": "image 1",
+                "type": "div",
+                "content": [],
+                "attributes": 
+-
+{
+                    "class": "v29_25"
+                },
+                "style": 
+-
+{
+                    "width": "121px",
+                    "height": "112px",
+                    "background": "url(\"../images/v29_25.png\")",
+                    "background-repeat": "no-repeat",
+                    "background-position": "center center",
+                    "background-size": "cover",
+                    "opacity": 1,
+                    "position": "absolute",
+                    "top": "814px",
+                    "left": "307px",
+                    "overflow": "hidden"
+                }
+            }
+        ],
+        "attributes": 
+-
+{
+            "class": "v29_6"
+        },
+        "style": 
+-
+{
+            "width": "428px",
+            "height": "926px",
+            "background": "rgba(255,255,255,1)",
+            "opacity": 1,
+            "position": "absolute",
+            "top": "0px",
+            "left": "0px",
+            "overflow": "hidden"
+        }
+    }
+]

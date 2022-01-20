@@ -1,0 +1,585 @@
+-
+[
+   
+-
+{
+        "name": "iPhone 13 Pro Max - 13",
+        "type": "div",
+        "content": 
+-
+[
+           
+-
+{
+                "name": "Ellipse 1",
+                "type": "div",
+                "content": [],
+                "attributes": 
+-
+{
+                    "class": "v29_135"
+                },
+                "style": 
+-
+{
+                    "width": "63px",
+                    "height": "63px",
+                    "background": "url(\"../images/v29_135.png\")",
+                    "opacity": 1,
+                    "position": "absolute",
+                    "top": "19px",
+                    "left": "342px",
+                    "border-radius": "50%"
+                }
+            },
+           
+-
+{
+                "name": "name",
+                "type": "div",
+                "content": [],
+                "attributes": 
+-
+{
+                    "class": "name"
+                },
+                "style": 
+-
+{
+                    "color": "#fff"
+                }
+            },
+           
+-
+{
+                "name": "quest2learn black 1",
+                "type": "div",
+                "content": [],
+                "attributes": 
+-
+{
+                    "class": "v29_137"
+                },
+                "style": 
+-
+{
+                    "width": "165px",
+                    "height": "50px",
+                    "background": "url(\"../images/v29_137.png\")",
+                    "background-repeat": "no-repeat",
+                    "background-position": "center center",
+                    "background-size": "cover",
+                    "opacity": 1,
+                    "position": "absolute",
+                    "top": "31px",
+                    "left": "21px",
+                    "box-shadow": "0px 3.188405752182007px 3px rgba(0, 0, 0, 0.25)",
+                    "overflow": "hidden"
+                }
+            },
+           
+-
+{
+                "name": "About",
+                "type": "span",
+                "content": "About",
+                "attributes": 
+-
+{
+                    "class": "v29_138"
+                },
+                "style": 
+-
+{
+                    "width": "314px",
+                    "color": "rgba(0,0,0,1)",
+                    "position": "absolute",
+                    "top": "129px",
+                    "left": "57px",
+                    "font-family": "Lato",
+                    "font-weight": "Regular",
+                    "font-size": "24px",
+                    "opacity": 1,
+                    "text-align": "center"
+                }
+            },
+           
+-
+{
+                "name": "Frame 1",
+                "type": "div",
+                "content": 
+-
+[
+                   
+-
+{
+                        "name": "Border",
+                        "type": "div",
+                        "content": 
+-
+[
+                           
+-
+{
+                                "name": "name",
+                                "type": "div",
+                                "content": [],
+                                "attributes": 
++
+{1 item},
+                                "style": 
++
+{1 item}
+                            },
+                           
+-
+{
+                                "name": "name",
+                                "type": "div",
+                                "content": [],
+                                "attributes": 
++
+{1 item},
+                                "style": 
++
+{1 item}
+                            },
+                           
+-
+{
+                                "name": "name",
+                                "type": "div",
+                                "content": [],
+                                "attributes": 
++
+{1 item},
+                                "style": 
++
+{1 item}
+                            },
+                           
+-
+{
+                                "name": "name",
+                                "type": "div",
+                                "content": [],
+                                "attributes": 
++
+{1 item},
+                                "style": 
++
+{1 item}
+                            }
+                        ],
+                        "attributes": 
+-
+{
+                            "class": "v29_140"
+                        },
+                        "style": 
+-
+{
+                            "width": "385px",
+                            "height": "646px",
+                            "background": "url(\"../images/v29_140.png\")",
+                            "background-repeat": "no-repeat",
+                            "background-position": "center center",
+                            "background-size": "cover",
+                            "opacity": 1,
+                            "position": "absolute",
+                            "top": "0px",
+                            "left": "0px",
+                            "overflow": "hidden"
+                        }
+                    },
+                   
+-
+{
+                        "name": "For this lab, we will performing a protein gel electrophoresis. Proteins in their native state are folded and often contain side groups of all sorts of different charges, which makes it difficult to correlate their molecular weight with their electric charge. Thus, the protein is treated with SDS-Page in the sample buffer first. SDS (sodium dodecyl sulphate) is a detergent. It’s a negatively charged molecule that breaks protein-protein interactions that keep the protein folded in its native form by binding with some of the side groups involved in those interactions, denaturing the protein.",
+                        "type": "span",
+                        "content": "For this lab, we will performing a protein gel electrophoresis. Proteins in their native state are folded and often contain side groups of all sorts of different charges, which makes it difficult to correlate their molecular weight with their electric charge. Thus, the protein is treated with SDS-Page in the sample buffer first. SDS (sodium dodecyl sulphate) is a detergent. It’s a negatively charged molecule that breaks protein-protein interactions that keep the protein folded in its native form by binding with some of the side groups involved in those interactions, denaturing the protein.",
+                        "attributes": 
+-
+{
+                            "class": "v29_145"
+                        },
+                        "style": 
+-
+{
+                            "width": "362px",
+                            "color": "rgba(0,0,0,1)",
+                            "position": "absolute",
+                            "top": "7px",
+                            "left": "12px",
+                            "font-family": "Lato",
+                            "font-weight": "Regular",
+                            "font-size": "18px",
+                            "opacity": 1,
+                            "text-align": "center"
+                        }
+                    },
+                   
+-
+{
+                        "name": "3/4",
+                        "type": "span",
+                        "content": "3/4",
+                        "attributes": 
+-
+{
+                            "class": "v29_146"
+                        },
+                        "style": 
+-
+{
+                            "width": "80px",
+                            "color": "rgba(0,0,0,1)",
+                            "position": "absolute",
+                            "top": "612px",
+                            "left": "153px",
+                            "font-family": "Lato",
+                            "font-weight": "Regular",
+                            "font-size": "14px",
+                            "opacity": 1,
+                            "text-align": "center"
+                        }
+                    },
+                   
+-
+{
+                        "name": "Rectangle 1",
+                        "type": "div",
+                        "content": [],
+                        "attributes": 
+-
+{
+                            "class": "v29_147"
+                        },
+                        "style": 
+-
+{
+                            "width": "100px",
+                            "height": "33px",
+                            "background": "rgba(216,216,216,1)",
+                            "opacity": 1,
+                            "position": "absolute",
+                            "top": "612px",
+                            "left": "0px",
+                            "overflow": "hidden"
+                        }
+                    },
+                   
+-
+{
+                        "name": "Rectangle 2",
+                        "type": "div",
+                        "content": [],
+                        "attributes": 
+-
+{
+                            "class": "v29_148"
+                        },
+                        "style": 
+-
+{
+                            "width": "100px",
+                            "height": "33px",
+                            "background": "rgba(216,216,216,1)",
+                            "opacity": 1,
+                            "position": "absolute",
+                            "top": "612px",
+                            "left": "284px",
+                            "overflow": "hidden"
+                        }
+                    },
+                   
+-
+{
+                        "name": "Back",
+                        "type": "span",
+                        "content": "Back",
+                        "attributes": 
+-
+{
+                            "class": "v29_149"
+                        },
+                        "style": 
+-
+{
+                            "width": "100px",
+                            "color": "rgba(0,0,0,1)",
+                            "position": "absolute",
+                            "top": "614px",
+                            "left": "0px",
+                            "font-family": "Lato",
+                            "font-weight": "Regular",
+                            "font-size": "14px",
+                            "opacity": 1,
+                            "text-align": "center"
+                        }
+                    },
+                   
+-
+{
+                        "name": "Next",
+                        "type": "span",
+                        "content": "Next",
+                        "attributes": 
+-
+{
+                            "class": "v29_150"
+                        },
+                        "style": 
+-
+{
+                            "width": "100px",
+                            "color": "rgba(0,0,0,1)",
+                            "position": "absolute",
+                            "top": "612px",
+                            "left": "285px",
+                            "font-family": "Lato",
+                            "font-weight": "Regular",
+                            "font-size": "14px",
+                            "opacity": 1,
+                            "text-align": "center"
+                        }
+                    }
+                ],
+                "attributes": 
+-
+{
+                    "class": "v29_139"
+                },
+                "style": 
+-
+{
+                    "width": "385px",
+                    "height": "646px",
+                    "background": "url(\"../images/v29_139.png\")",
+                    "background-repeat": "no-repeat",
+                    "background-position": "center center",
+                    "background-size": "cover",
+                    "opacity": 1,
+                    "position": "absolute",
+                    "top": "191px",
+                    "left": "21px",
+                    "overflow": "hidden"
+                }
+            },
+           
+-
+{
+                "name": "Ellipse 2",
+                "type": "div",
+                "content": [],
+                "attributes": 
+-
+{
+                    "class": "v29_151"
+                },
+                "style": 
+-
+{
+                    "width": "63px",
+                    "height": "63px",
+                    "background": "url(\"../images/v29_151.png\")",
+                    "opacity": 1,
+                    "position": "absolute",
+                    "top": "19px",
+                    "left": "342px",
+                    "border-radius": "50%"
+                }
+            },
+           
+-
+{
+                "name": "name",
+                "type": "div",
+                "content": [],
+                "attributes": 
+-
+{
+                    "class": "name"
+                },
+                "style": 
+-
+{
+                    "color": "#fff"
+                }
+            },
+           
+-
+{
+                "name": "quest2learn black 2",
+                "type": "div",
+                "content": [],
+                "attributes": 
+-
+{
+                    "class": "v29_153"
+                },
+                "style": 
+-
+{
+                    "width": "165px",
+                    "height": "50px",
+                    "background": "url(\"../images/v29_153.png\")",
+                    "background-repeat": "no-repeat",
+                    "background-position": "center center",
+                    "background-size": "cover",
+                    "opacity": 1,
+                    "position": "absolute",
+                    "top": "31px",
+                    "left": "21px",
+                    "box-shadow": "0px 3.188405752182007px 3px rgba(0, 0, 0, 0.25)",
+                    "overflow": "hidden"
+                }
+            },
+           
+-
+{
+                "name": "About",
+                "type": "span",
+                "content": "About",
+                "attributes": 
+-
+{
+                    "class": "v29_154"
+                },
+                "style": 
+-
+{
+                    "width": "314px",
+                    "color": "rgba(0,0,0,1)",
+                    "position": "absolute",
+                    "top": "129px",
+                    "left": "57px",
+                    "font-family": "Lato",
+                    "font-weight": "Regular",
+                    "font-size": "24px",
+                    "opacity": 1,
+                    "text-align": "center"
+                }
+            },
+           
+-
+{
+                "name": "Frame 2",
+                "type": "div",
+                "content": [],
+                "attributes": 
+-
+{
+                    "class": "v29_155"
+                },
+                "style": 
+-
+{
+                    "width": "385px",
+                    "height": "639px",
+                    "background": "url(\"../images/v29_155.png\")",
+                    "background-repeat": "no-repeat",
+                    "background-position": "center center",
+                    "background-size": "cover",
+                    "opacity": 1,
+                    "position": "absolute",
+                    "top": "198px",
+                    "left": "21px",
+                    "overflow": "hidden"
+                }
+            },
+           
+-
+{
+                "name": "Rectangle 3",
+                "type": "div",
+                "content": [],
+                "attributes": 
+-
+{
+                    "class": "v29_165"
+                },
+                "style": 
+-
+{
+                    "width": "100px",
+                    "height": "33px",
+                    "background": "rgba(216,216,216,1)",
+                    "opacity": 1,
+                    "position": "absolute",
+                    "top": "867px",
+                    "left": "164px",
+                    "overflow": "hidden"
+                }
+            },
+           
+-
+{
+                "name": "Rectangle 4",
+                "type": "div",
+                "content": [],
+                "attributes": 
+-
+{
+                    "class": "v29_166"
+                },
+                "style": 
+-
+{
+                    "width": "100px",
+                    "height": "33px",
+                    "background": "rgba(216,216,216,1)",
+                    "opacity": 1,
+                    "position": "absolute",
+                    "top": "867px",
+                    "left": "164px",
+                    "overflow": "hidden"
+                }
+            },
+           
+-
+{
+                "name": "Skip",
+                "type": "span",
+                "content": "Skip",
+                "attributes": 
+-
+{
+                    "class": "v29_167"
+                },
+                "style": 
+-
+{
+                    "width": "100px",
+                    "color": "rgba(0,0,0,1)",
+                    "position": "absolute",
+                    "top": "867px",
+                    "left": "164px",
+                    "font-family": "Lato",
+                    "font-weight": "Regular",
+                    "font-size": "14px",
+                    "opacity": 1,
+                    "text-align": "center"
+                }
+            }
+        ],
+        "attributes": 
+-
+{
+            "class": "v29_134"
+        },
+        "style": 
+-
+{
+            "width": "428px",
+            "height": "926px",
+            "background": "rgba(255,255,255,1)",
+            "opacity": 1,
+            "position": "absolute",
+            "top": "0px",
+            "left": "0px",
+            "overflow": "hidden"
+        }
+    }
+]

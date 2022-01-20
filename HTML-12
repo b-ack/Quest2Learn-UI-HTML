@@ -1,0 +1,770 @@
+-
+[
+   
+-
+{
+        "name": "iPhone 13 Pro Max - 12",
+        "type": "div",
+        "content": 
+-
+[
+           
+-
+{
+                "name": "Ellipse 1",
+                "type": "div",
+                "content": [],
+                "attributes": 
+-
+{
+                    "class": "v29_100"
+                },
+                "style": 
+-
+{
+                    "width": "63px",
+                    "height": "63px",
+                    "background": "url(\"../images/v29_100.png\")",
+                    "opacity": 1,
+                    "position": "absolute",
+                    "top": "19px",
+                    "left": "342px",
+                    "border-radius": "50%"
+                }
+            },
+           
+-
+{
+                "name": "name",
+                "type": "div",
+                "content": [],
+                "attributes": 
+-
+{
+                    "class": "name"
+                },
+                "style": 
+-
+{
+                    "color": "#fff"
+                }
+            },
+           
+-
+{
+                "name": "quest2learn black 1",
+                "type": "div",
+                "content": [],
+                "attributes": 
+-
+{
+                    "class": "v29_102"
+                },
+                "style": 
+-
+{
+                    "width": "165px",
+                    "height": "50px",
+                    "background": "url(\"../images/v29_102.png\")",
+                    "background-repeat": "no-repeat",
+                    "background-position": "center center",
+                    "background-size": "cover",
+                    "opacity": 1,
+                    "position": "absolute",
+                    "top": "31px",
+                    "left": "21px",
+                    "box-shadow": "0px 3.188405752182007px 3px rgba(0, 0, 0, 0.25)",
+                    "overflow": "hidden"
+                }
+            },
+           
+-
+{
+                "name": "About",
+                "type": "span",
+                "content": "About",
+                "attributes": 
+-
+{
+                    "class": "v29_103"
+                },
+                "style": 
+-
+{
+                    "width": "314px",
+                    "color": "rgba(0,0,0,1)",
+                    "position": "absolute",
+                    "top": "129px",
+                    "left": "57px",
+                    "font-family": "Lato",
+                    "font-weight": "Regular",
+                    "font-size": "24px",
+                    "opacity": 1,
+                    "text-align": "center"
+                }
+            },
+           
+-
+{
+                "name": "Frame 1",
+                "type": "div",
+                "content": 
+-
+[
+                   
+-
+{
+                        "name": "Border",
+                        "type": "div",
+                        "content": 
+-
+[
+                           
+-
+{
+                                "name": "name",
+                                "type": "div",
+                                "content": [],
+                                "attributes": 
++
+{1 item},
+                                "style": 
++
+{1 item}
+                            },
+                           
+-
+{
+                                "name": "name",
+                                "type": "div",
+                                "content": [],
+                                "attributes": 
++
+{1 item},
+                                "style": 
++
+{1 item}
+                            },
+                           
+-
+{
+                                "name": "name",
+                                "type": "div",
+                                "content": [],
+                                "attributes": 
++
+{1 item},
+                                "style": 
++
+{1 item}
+                            },
+                           
+-
+{
+                                "name": "name",
+                                "type": "div",
+                                "content": [],
+                                "attributes": 
++
+{1 item},
+                                "style": 
++
+{1 item}
+                            }
+                        ],
+                        "attributes": 
+-
+{
+                            "class": "v29_105"
+                        },
+                        "style": 
+-
+{
+                            "width": "385px",
+                            "height": "646px",
+                            "background": "url(\"../images/v29_105.png\")",
+                            "background-repeat": "no-repeat",
+                            "background-position": "center center",
+                            "background-size": "cover",
+                            "opacity": 1,
+                            "position": "absolute",
+                            "top": "0px",
+                            "left": "0px",
+                            "overflow": "hidden"
+                        }
+                    },
+                   
+-
+{
+                        "name": "The position of the molecule along the gel, then, will be correlated with the size of the protein. These positions can then be compared with a ladder of where biomolecules of known molecular weights fall along the gel, allowing us to compare our molecule of unknown size to the gel.",
+                        "type": "span",
+                        "content": " The position of the molecule along the gel, then, will be correlated with the size of the protein. These positions can then be compared with a ladder of where biomolecules of known molecular weights fall along the gel, allowing us to compare our molecule of unknown size to the gel.",
+                        "attributes": 
+-
+{
+                            "class": "v29_110"
+                        },
+                        "style": 
+-
+{
+                            "width": "372px",
+                            "color": "rgba(0,0,0,1)",
+                            "position": "absolute",
+                            "top": "7px",
+                            "left": "12px",
+                            "font-family": "Lato",
+                            "font-weight": "Regular",
+                            "font-size": "18px",
+                            "opacity": 1,
+                            "text-align": "center"
+                        }
+                    },
+                   
+-
+{
+                        "name": "2/4",
+                        "type": "span",
+                        "content": "2/4",
+                        "attributes": 
+-
+{
+                            "class": "v29_111"
+                        },
+                        "style": 
+-
+{
+                            "width": "80px",
+                            "color": "rgba(0,0,0,1)",
+                            "position": "absolute",
+                            "top": "612px",
+                            "left": "153px",
+                            "font-family": "Lato",
+                            "font-weight": "Regular",
+                            "font-size": "14px",
+                            "opacity": 1,
+                            "text-align": "center"
+                        }
+                    },
+                   
+-
+{
+                        "name": "Rectangle 1",
+                        "type": "div",
+                        "content": [],
+                        "attributes": 
+-
+{
+                            "class": "v29_112"
+                        },
+                        "style": 
+-
+{
+                            "width": "100px",
+                            "height": "33px",
+                            "background": "rgba(216,216,216,1)",
+                            "opacity": 1,
+                            "position": "absolute",
+                            "top": "612px",
+                            "left": "0px",
+                            "overflow": "hidden"
+                        }
+                    },
+                   
+-
+{
+                        "name": "Rectangle 2",
+                        "type": "div",
+                        "content": [],
+                        "attributes": 
+-
+{
+                            "class": "v29_113"
+                        },
+                        "style": 
+-
+{
+                            "width": "100px",
+                            "height": "33px",
+                            "background": "rgba(216,216,216,1)",
+                            "opacity": 1,
+                            "position": "absolute",
+                            "top": "612px",
+                            "left": "284px",
+                            "overflow": "hidden"
+                        }
+                    },
+                   
+-
+{
+                        "name": "Back",
+                        "type": "span",
+                        "content": "Back",
+                        "attributes": 
+-
+{
+                            "class": "v29_114"
+                        },
+                        "style": 
+-
+{
+                            "width": "100px",
+                            "color": "rgba(0,0,0,1)",
+                            "position": "absolute",
+                            "top": "614px",
+                            "left": "0px",
+                            "font-family": "Lato",
+                            "font-weight": "Regular",
+                            "font-size": "14px",
+                            "opacity": 1,
+                            "text-align": "center"
+                        }
+                    },
+                   
+-
+{
+                        "name": "Next",
+                        "type": "span",
+                        "content": "Next",
+                        "attributes": 
+-
+{
+                            "class": "v29_115"
+                        },
+                        "style": 
+-
+{
+                            "width": "100px",
+                            "color": "rgba(0,0,0,1)",
+                            "position": "absolute",
+                            "top": "612px",
+                            "left": "285px",
+                            "font-family": "Lato",
+                            "font-weight": "Regular",
+                            "font-size": "14px",
+                            "opacity": 1,
+                            "text-align": "center"
+                        }
+                    }
+                ],
+                "attributes": 
+-
+{
+                    "class": "v29_104"
+                },
+                "style": 
+-
+{
+                    "width": "385px",
+                    "height": "646px",
+                    "background": "url(\"../images/v29_104.png\")",
+                    "background-repeat": "no-repeat",
+                    "background-position": "center center",
+                    "background-size": "cover",
+                    "opacity": 1,
+                    "position": "absolute",
+                    "top": "191px",
+                    "left": "21px",
+                    "overflow": "hidden"
+                }
+            },
+           
+-
+{
+                "name": "Ellipse 2",
+                "type": "div",
+                "content": [],
+                "attributes": 
+-
+{
+                    "class": "v29_116"
+                },
+                "style": 
+-
+{
+                    "width": "63px",
+                    "height": "63px",
+                    "background": "url(\"../images/v29_116.png\")",
+                    "opacity": 1,
+                    "position": "absolute",
+                    "top": "19px",
+                    "left": "342px",
+                    "border-radius": "50%"
+                }
+            },
+           
+-
+{
+                "name": "name",
+                "type": "div",
+                "content": [],
+                "attributes": 
+-
+{
+                    "class": "name"
+                },
+                "style": 
+-
+{
+                    "color": "#fff"
+                }
+            },
+           
+-
+{
+                "name": "quest2learn black 2",
+                "type": "div",
+                "content": [],
+                "attributes": 
+-
+{
+                    "class": "v29_118"
+                },
+                "style": 
+-
+{
+                    "width": "165px",
+                    "height": "50px",
+                    "background": "url(\"../images/v29_118.png\")",
+                    "background-repeat": "no-repeat",
+                    "background-position": "center center",
+                    "background-size": "cover",
+                    "opacity": 1,
+                    "position": "absolute",
+                    "top": "31px",
+                    "left": "21px",
+                    "box-shadow": "0px 3.188405752182007px 3px rgba(0, 0, 0, 0.25)",
+                    "overflow": "hidden"
+                }
+            },
+           
+-
+{
+                "name": "About",
+                "type": "span",
+                "content": "About",
+                "attributes": 
+-
+{
+                    "class": "v29_119"
+                },
+                "style": 
+-
+{
+                    "width": "314px",
+                    "color": "rgba(0,0,0,1)",
+                    "position": "absolute",
+                    "top": "129px",
+                    "left": "57px",
+                    "font-family": "Lato",
+                    "font-weight": "Regular",
+                    "font-size": "24px",
+                    "opacity": 1,
+                    "text-align": "center"
+                }
+            },
+           
+-
+{
+                "name": "Frame 2",
+                "type": "div",
+                "content": 
+-
+[
+                   
+-
+{
+                        "name": "Border",
+                        "type": "div",
+                        "content": 
+-
+[
+                           
+-
+{
+                                "name": "name",
+                                "type": "div",
+                                "content": [],
+                                "attributes": 
++
+{1 item},
+                                "style": 
++
+{1 item}
+                            },
+                           
+-
+{
+                                "name": "name",
+                                "type": "div",
+                                "content": [],
+                                "attributes": 
++
+{1 item},
+                                "style": 
++
+{1 item}
+                            },
+                           
+-
+{
+                                "name": "name",
+                                "type": "div",
+                                "content": [],
+                                "attributes": 
++
+{1 item},
+                                "style": 
++
+{1 item}
+                            },
+                           
+-
+{
+                                "name": "name",
+                                "type": "div",
+                                "content": [],
+                                "attributes": 
++
+{1 item},
+                                "style": 
++
+{1 item}
+                            }
+                        ],
+                        "attributes": 
+-
+{
+                            "class": "v29_121"
+                        },
+                        "style": 
+-
+{
+                            "width": "385px",
+                            "height": "646px",
+                            "background": "url(\"../images/v29_121.png\")",
+                            "background-repeat": "no-repeat",
+                            "background-position": "center center",
+                            "background-size": "cover",
+                            "opacity": 1,
+                            "position": "absolute",
+                            "top": "0px",
+                            "left": "0px",
+                            "overflow": "hidden"
+                        }
+                    },
+                   
+-
+{
+                        "name": "Rectangle 1",
+                        "type": "div",
+                        "content": [],
+                        "attributes": 
+-
+{
+                            "class": "v29_126"
+                        },
+                        "style": 
+-
+{
+                            "width": "100px",
+                            "height": "33px",
+                            "background": "rgba(216,216,216,1)",
+                            "opacity": 1,
+                            "position": "absolute",
+                            "top": "612px",
+                            "left": "0px",
+                            "overflow": "hidden"
+                        }
+                    },
+                   
+-
+{
+                        "name": "Rectangle 2",
+                        "type": "div",
+                        "content": [],
+                        "attributes": 
+-
+{
+                            "class": "v29_127"
+                        },
+                        "style": 
+-
+{
+                            "width": "100px",
+                            "height": "33px",
+                            "background": "rgba(216,216,216,1)",
+                            "opacity": 1,
+                            "position": "absolute",
+                            "top": "612px",
+                            "left": "284px",
+                            "overflow": "hidden"
+                        }
+                    },
+                   
+-
+{
+                        "name": "Back",
+                        "type": "span",
+                        "content": "Back",
+                        "attributes": 
+-
+{
+                            "class": "v29_128"
+                        },
+                        "style": 
+-
+{
+                            "width": "100px",
+                            "color": "rgba(0,0,0,1)",
+                            "position": "absolute",
+                            "top": "614px",
+                            "left": "0px",
+                            "font-family": "Lato",
+                            "font-weight": "Regular",
+                            "font-size": "14px",
+                            "opacity": 1,
+                            "text-align": "center"
+                        }
+                    },
+                   
+-
+{
+                        "name": "Next",
+                        "type": "span",
+                        "content": "Next",
+                        "attributes": 
+-
+{
+                            "class": "v29_129"
+                        },
+                        "style": 
+-
+{
+                            "width": "100px",
+                            "color": "rgba(0,0,0,1)",
+                            "position": "absolute",
+                            "top": "612px",
+                            "left": "285px",
+                            "font-family": "Lato",
+                            "font-weight": "Regular",
+                            "font-size": "14px",
+                            "opacity": 1,
+                            "text-align": "center"
+                        }
+                    }
+                ],
+                "attributes": 
+-
+{
+                    "class": "v29_120"
+                },
+                "style": 
+-
+{
+                    "width": "385px",
+                    "height": "646px",
+                    "background": "url(\"../images/v29_120.png\")",
+                    "background-repeat": "no-repeat",
+                    "background-position": "center center",
+                    "background-size": "cover",
+                    "opacity": 1,
+                    "position": "absolute",
+                    "top": "191px",
+                    "left": "21px",
+                    "overflow": "hidden"
+                }
+            },
+           
+-
+{
+                "name": "Rectangle 3",
+                "type": "div",
+                "content": [],
+                "attributes": 
+-
+{
+                    "class": "v29_130"
+                },
+                "style": 
+-
+{
+                    "width": "100px",
+                    "height": "33px",
+                    "background": "rgba(216,216,216,1)",
+                    "opacity": 1,
+                    "position": "absolute",
+                    "top": "867px",
+                    "left": "164px",
+                    "overflow": "hidden"
+                }
+            },
+           
+-
+{
+                "name": "Rectangle 4",
+                "type": "div",
+                "content": [],
+                "attributes": 
+-
+{
+                    "class": "v29_131"
+                },
+                "style": 
+-
+{
+                    "width": "100px",
+                    "height": "33px",
+                    "background": "rgba(216,216,216,1)",
+                    "opacity": 1,
+                    "position": "absolute",
+                    "top": "867px",
+                    "left": "164px",
+                    "overflow": "hidden"
+                }
+            },
+           
+-
+{
+                "name": "Skip",
+                "type": "span",
+                "content": "Skip",
+                "attributes": 
+-
+{
+                    "class": "v29_132"
+                },
+                "style": 
+-
+{
+                    "width": "100px",
+                    "color": "rgba(0,0,0,1)",
+                    "position": "absolute",
+                    "top": "867px",
+                    "left": "164px",
+                    "font-family": "Lato",
+                    "font-weight": "Regular",
+                    "font-size": "14px",
+                    "opacity": 1,
+                    "text-align": "center"
+                }
+            }
+        ],
+        "attributes": 
+-
+{
+            "class": "v29_99"
+        },
+        "style": 
+-
+{
+            "width": "428px",
+            "height": "926px",
+            "background": "rgba(255,255,255,1)",
+            "opacity": 1,
+            "position": "absolute",
+            "top": "0px",
+            "left": "0px",
+            "overflow": "hidden"
+        }
+    }
+]

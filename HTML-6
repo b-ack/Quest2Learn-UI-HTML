@@ -1,0 +1,419 @@
+-
+[
+   
+-
+{
+        "name": "iPhone 13 Pro Max - 6",
+        "type": "div",
+        "content": 
+-
+[
+           
+-
+{
+                "name": "Ellipse 1",
+                "type": "div",
+                "content": [],
+                "attributes": 
+-
+{
+                    "class": "v29_27"
+                },
+                "style": 
+-
+{
+                    "width": "161px",
+                    "height": "161px",
+                    "background": "url(\"../images/v29_27.png\")",
+                    "opacity": 1,
+                    "position": "absolute",
+                    "top": "185px",
+                    "left": "133px",
+                    "border-radius": "50%"
+                }
+            },
+           
+-
+{
+                "name": "name",
+                "type": "div",
+                "content": [],
+                "attributes": 
+-
+{
+                    "class": "name"
+                },
+                "style": 
+-
+{
+                    "color": "#fff"
+                }
+            },
+           
+-
+{
+                "name": "quest2learn black 1",
+                "type": "div",
+                "content": [],
+                "attributes": 
+-
+{
+                    "class": "v29_29"
+                },
+                "style": 
+-
+{
+                    "width": "165px",
+                    "height": "50px",
+                    "background": "url(\"../images/v29_29.png\")",
+                    "background-repeat": "no-repeat",
+                    "background-position": "center center",
+                    "background-size": "cover",
+                    "opacity": 1,
+                    "position": "absolute",
+                    "top": "31px",
+                    "left": "21px",
+                    "box-shadow": "0px 3.188405752182007px 3px rgba(0, 0, 0, 0.25)",
+                    "overflow": "hidden"
+                }
+            },
+           
+-
+{
+                "name": "My Profile",
+                "type": "span",
+                "content": "My Profile",
+                "attributes": 
+-
+{
+                    "class": "v29_30"
+                },
+                "style": 
+-
+{
+                    "width": "240px",
+                    "color": "rgba(0,0,0,1)",
+                    "position": "absolute",
+                    "top": "129px",
+                    "left": "94px",
+                    "font-family": "Lato",
+                    "font-weight": "Regular",
+                    "font-size": "24px",
+                    "opacity": 1,
+                    "text-align": "center"
+                }
+            },
+           
+-
+{
+                "name": "image 1",
+                "type": "div",
+                "content": [],
+                "attributes": 
+-
+{
+                    "class": "v29_31"
+                },
+                "style": 
+-
+{
+                    "width": "121px",
+                    "height": "112px",
+                    "background": "url(\"../images/v29_31.png\")",
+                    "background-repeat": "no-repeat",
+                    "background-position": "center center",
+                    "background-size": "cover",
+                    "opacity": 1,
+                    "position": "absolute",
+                    "top": "814px",
+                    "left": "307px",
+                    "overflow": "hidden"
+                }
+            },
+           
+-
+{
+                "name": "image 5",
+                "type": "div",
+                "content": [],
+                "attributes": 
+-
+{
+                    "class": "v29_32"
+                },
+                "style": 
+-
+{
+                    "width": "53px",
+                    "height": "53px",
+                    "background": "url(\"../images/v29_32.png\")",
+                    "background-repeat": "no-repeat",
+                    "background-position": "center center",
+                    "background-size": "cover",
+                    "opacity": 1,
+                    "position": "absolute",
+                    "top": "119px",
+                    "left": "349px",
+                    "overflow": "hidden"
+                }
+            },
+           
+-
+{
+                "name": "Name _ Labs Done",
+                "type": "span",
+                "content": "Name\n_ Labs Done",
+                "attributes": 
+-
+{
+                    "class": "v29_33"
+                },
+                "style": 
+-
+{
+                    "width": "338px",
+                    "color": "rgba(0,0,0,1)",
+                    "position": "absolute",
+                    "top": "359px",
+                    "left": "45px",
+                    "font-family": "Lato",
+                    "font-weight": "Bold",
+                    "font-size": "24px",
+                    "opacity": 1,
+                    "text-align": "center"
+                }
+            },
+           
+-
+{
+                "name": "Certificates",
+                "type": "span",
+                "content": "Certificates",
+                "attributes": 
+-
+{
+                    "class": "v29_34"
+                },
+                "style": 
+-
+{
+                    "width": "214px",
+                    "color": "rgba(0,0,0,1)",
+                    "position": "absolute",
+                    "top": "549px",
+                    "left": "107px",
+                    "font-family": "Lato",
+                    "font-weight": "Regular",
+                    "font-size": "24px",
+                    "opacity": 1,
+                    "text-align": "center"
+                }
+            },
+           
+-
+{
+                "name": "Frame 4",
+                "type": "div",
+                "content": 
+-
+[
+                   
+-
+{
+                        "name": "Border",
+                        "type": "div",
+                        "content": 
+-
+[
+                           
+-
+{
+                                "name": "name",
+                                "type": "div",
+                                "content": [],
+                                "attributes": 
++
+{1 item},
+                                "style": 
++
+{1 item}
+                            },
+                           
+-
+{
+                                "name": "name",
+                                "type": "div",
+                                "content": [],
+                                "attributes": 
++
+{1 item},
+                                "style": 
++
+{1 item}
+                            },
+                           
+-
+{
+                                "name": "name",
+                                "type": "div",
+                                "content": [],
+                                "attributes": 
++
+{1 item},
+                                "style": 
++
+{1 item}
+                            },
+                           
+-
+{
+                                "name": "name",
+                                "type": "div",
+                                "content": [],
+                                "attributes": 
++
+{1 item},
+                                "style": 
++
+{1 item}
+                            }
+                        ],
+                        "attributes": 
+-
+{
+                            "class": "v29_36"
+                        },
+                        "style": 
+-
+{
+                            "width": "338px",
+                            "height": "210px",
+                            "background": "url(\"../images/v29_36.png\")",
+                            "background-repeat": "no-repeat",
+                            "background-position": "center center",
+                            "background-size": "cover",
+                            "opacity": 1,
+                            "position": "absolute",
+                            "top": "0px",
+                            "left": "0px",
+                            "overflow": "hidden"
+                        }
+                    },
+                   
+-
+{
+                        "name": "Complete labs to get certificates!",
+                        "type": "span",
+                        "content": "Complete labs to get certificates!",
+                        "attributes": 
+-
+{
+                            "class": "v29_41"
+                        },
+                        "style": 
+-
+{
+                            "width": "192px",
+                            "color": "rgba(0,0,0,1)",
+                            "position": "absolute",
+                            "top": "82px",
+                            "left": "73px",
+                            "font-family": "Lato",
+                            "font-weight": "Regular",
+                            "font-size": "14px",
+                            "opacity": 1,
+                            "text-align": "center"
+                        }
+                    }
+                ],
+                "attributes": 
+-
+{
+                    "class": "v29_35"
+                },
+                "style": 
+-
+{
+                    "width": "338px",
+                    "height": "210px",
+                    "background": "url(\"../images/v29_35.png\")",
+                    "background-repeat": "no-repeat",
+                    "background-position": "center center",
+                    "background-size": "cover",
+                    "opacity": 1,
+                    "position": "absolute",
+                    "top": "595px",
+                    "left": "45px",
+                    "overflow": "hidden"
+                }
+            },
+           
+-
+{
+                "name": "Rectangle 17",
+                "type": "div",
+                "content": [],
+                "attributes": 
+-
+{
+                    "class": "v29_42"
+                },
+                "style": 
+-
+{
+                    "width": "85px",
+                    "height": "27px",
+                    "background": "rgba(196,196,196,1)",
+                    "opacity": 1,
+                    "position": "absolute",
+                    "top": "856px",
+                    "left": "33px",
+                    "overflow": "hidden"
+                }
+            },
+           
+-
+{
+                "name": "back",
+                "type": "span",
+                "content": "back",
+                "attributes": 
+-
+{
+                    "class": "v29_43"
+                },
+                "style": 
+-
+{
+                    "width": "86px",
+                    "color": "rgba(0,0,0,1)",
+                    "position": "absolute",
+                    "top": "856px",
+                    "left": "32px",
+                    "font-family": "Lato",
+                    "font-weight": "Regular",
+                    "font-size": "18px",
+                    "opacity": 1,
+                    "text-align": "center"
+                }
+            }
+        ],
+        "attributes": 
+-
+{
+            "class": "v29_26"
+        },
+        "style": 
+-
+{
+            "width": "428px",
+            "height": "926px",
+            "background": "rgba(255,255,255,1)",
+            "opacity": 1,
+            "position": "relative",
+            "top": "0px",
+            "left": "0px",
+            "overflow": "hidden"
+        }
+    }
+]

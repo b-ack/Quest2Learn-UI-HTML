@@ -1,0 +1,298 @@
+<!DOCTYPE html><html><head><link href="https://fonts.googleapis.com/css?family=Lato&display=swap" rel="stylesheet" /></head><body><div class="v29_336"><span class="v29_337">(click to flip!)</span><div class="v36_377"></div><span class="v36_378">Back to Menu</span><div class="v29_338"></div><div class="name"></div><div class="v29_340"></div><span class="v29_341">Apparatus
+</span><div class="v29_342"><div class="v29_343"><div class="name"></div><div class="name"></div><div class="name"></div><div class="name"></div></div><div class="v29_348"></div><div class="v29_349"></div><span class="v29_350">Back</span><span class="v29_351">Next</span></div><div class="v29_352"><div class="v29_353"></div><div class="v29_354"><div class="name"></div><div class="name"></div><div class="name"></div><div class="name"></div></div><div class="v29_359"></div><div class="v29_360"></div><div class="v29_361"></div><div class="v29_362"></div><span class="v29_363">5M Stock Solution</span><span class="v29_364">2X Sample Buffer</span><span class="v29_365">Gel Electrophoresis Tank</span></div></div></body></html> <br/><br/> <style>* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v29_336 {
+  width: 428px;
+  height: 926px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.v29_337 {
+  width: 388px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 173px;
+  left: 16px;
+  font-family: Lato;
+  font-weight: Regular;
+  font-size: 14px;
+  opacity: 1;
+  text-align: center;
+}
+.v36_377 {
+  width: 146px;
+  height: 33px;
+  background: rgba(216,216,216,1);
+  opacity: 1;
+  position: absolute;
+  top: 864px;
+  left: 137px;
+  overflow: hidden;
+}
+.v36_378 {
+  width: 148px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 863px;
+  left: 136px;
+  font-family: Lato;
+  font-weight: Regular;
+  font-size: 18px;
+  opacity: 1;
+  text-align: center;
+}
+.v29_338 {
+  width: 63px;
+  height: 63px;
+  background: url("../images/v29_338.png");
+  opacity: 1;
+  position: absolute;
+  top: 19px;
+  left: 342px;
+  border-radius: 50%;
+}
+.name {
+  color: #fff;
+}
+.v29_340 {
+  width: 165px;
+  height: 50px;
+  background: url("../images/v29_340.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 31px;
+  left: 21px;
+  box-shadow: 0px 3.188405752182007px 3px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.v29_341 {
+  width: 314px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 129px;
+  left: 57px;
+  font-family: Lato;
+  font-weight: Regular;
+  font-size: 24px;
+  opacity: 1;
+  text-align: center;
+}
+.v29_342 {
+  width: 385px;
+  height: 646px;
+  background: url("../images/v29_342.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 191px;
+  left: 21px;
+  overflow: hidden;
+}
+.v29_343 {
+  width: 385px;
+  height: 646px;
+  background: url("../images/v29_343.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.v29_348 {
+  width: 100px;
+  height: 33px;
+  background: rgba(216,216,216,1);
+  opacity: 1;
+  position: absolute;
+  top: 612px;
+  left: 0px;
+  overflow: hidden;
+}
+.v29_349 {
+  width: 100px;
+  height: 33px;
+  background: rgba(216,216,216,1);
+  opacity: 1;
+  position: absolute;
+  top: 612px;
+  left: 284px;
+  overflow: hidden;
+}
+.v29_350 {
+  width: 100px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 614px;
+  left: 0px;
+  font-family: Lato;
+  font-weight: Regular;
+  font-size: 14px;
+  opacity: 1;
+  text-align: center;
+}
+.v29_351 {
+  width: 100px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 612px;
+  left: 285px;
+  font-family: Lato;
+  font-weight: Regular;
+  font-size: 14px;
+  opacity: 1;
+  text-align: center;
+}
+.v29_352 {
+  width: 315px;
+  height: 564px;
+  background: url("../images/v29_352.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 216px;
+  left: 56px;
+  overflow: hidden;
+}
+.v29_353 {
+  width: 8px;
+  height: 756px;
+  background: rgba(196,196,196,1);
+  opacity: 1;
+  position: absolute;
+  top: 1px;
+  left: 306px;
+  overflow: hidden;
+}
+.v29_354 {
+  width: 315px;
+  height: 564px;
+  background: url("../images/v29_354.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.v29_359 {
+  width: 265px;
+  height: 175px;
+  background: rgba(101,183,226,1);
+  opacity: 1;
+  position: absolute;
+  top: 22px;
+  left: 21px;
+  overflow: hidden;
+}
+.v29_360 {
+  width: 265px;
+  height: 175px;
+  background: rgba(101,183,226,1);
+  opacity: 1;
+  position: absolute;
+  top: 227px;
+  left: 21px;
+  overflow: hidden;
+}
+.v29_361 {
+  width: 265px;
+  height: 175px;
+  background: rgba(101,183,226,1);
+  opacity: 1;
+  position: absolute;
+  top: 432px;
+  left: 21px;
+  overflow: hidden;
+}
+.v29_362 {
+  width: 6px;
+  height: 181px;
+  background: rgba(249,249,249,1);
+  opacity: 1;
+  position: absolute;
+  top: 2px;
+  left: 307px;
+  overflow: hidden;
+}
+.v29_363 {
+  width: 180px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 90px;
+  left: 64px;
+  font-family: Lato;
+  font-weight: Regular;
+  font-size: 14px;
+  opacity: 1;
+  text-align: center;
+}
+.v29_364 {
+  width: 180px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 295px;
+  left: 64px;
+  font-family: Lato;
+  font-weight: Regular;
+  font-size: 14px;
+  opacity: 1;
+  text-align: center;
+}
+.v29_365 {
+  width: 180px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 500px;
+  left: 64px;
+  font-family: Lato;
+  font-weight: Regular;
+  font-size: 14px;
+  opacity: 1;
+  text-align: center;
+}
+</style>

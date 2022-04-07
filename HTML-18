@@ -1,0 +1,103 @@
+<!DOCTYPE html><html><head><link href="https://fonts.googleapis.com/css?family=Lato&display=swap" rel="stylesheet" /></head><body><div class="v75_2"><div class="name"></div><div class="v75_5"></div><span class="v75_6">My Avatars</span><div class="v75_7"></div><div class="v75_18"></div><div class="v75_19"></div><span class="v75_20">cancel</span><span class="v75_21">save</span></div></body></html> <br/><br/> <style>* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v75_2 {
+  width: 428px;
+  height: 926px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.name {
+  color: #fff;
+}
+.v75_5 {
+  width: 165px;
+  height: 50px;
+  background: url("../images/v75_5.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 31px;
+  left: 21px;
+  box-shadow: 0px 3.188405752182007px 3px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.v75_6 {
+  width: 240px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 129px;
+  left: 94px;
+  font-family: Lato;
+  font-weight: Regular;
+  font-size: 24px;
+  opacity: 1;
+  text-align: center;
+}
+.v75_7 {
+  width: 121px;
+  height: 112px;
+  background: url("../images/v75_7.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 814px;
+  left: 307px;
+  overflow: hidden;
+}
+.v75_18 {
+  width: 85px;
+  height: 27px;
+  background: rgba(196,196,196,1);
+  opacity: 1;
+  position: absolute;
+  top: 129px;
+  left: 33px;
+  overflow: hidden;
+}
+.v75_19 {
+  width: 85px;
+  height: 27px;
+  background: rgba(196,196,196,1);
+  opacity: 1;
+  position: absolute;
+  top: 129px;
+  left: 298px;
+  overflow: hidden;
+}
+.v75_20 {
+  width: 86px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 129px;
+  left: 32px;
+  font-family: Lato;
+  font-weight: Regular;
+  font-size: 18px;
+  opacity: 1;
+  text-align: center;
+}
+.v75_21 {
+  width: 86px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 129px;
+  left: 298px;
+  font-family: Lato;
+  font-weight: Regular;
+  font-size: 18px;
+  opacity: 1;
+  text-align: center;
+}
+</style>
